@@ -1,1 +1,1 @@
-# Librarymanagement
+Library management system web application developed  using Html,Css, Javasript and MYSQL database. This website can be used for library management related activities.This application can be used by both admin as well as students.
